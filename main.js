@@ -2,17 +2,17 @@
 
  let users = [
      {
-         name: Aragorn,
+         name: 'Aragorn',
          age: 210,
          hobby: ['Arwen :)', 'Gondor']
      },
      {
-         name: Frodo,
+         name: 'Frodo',
          age: 53,
          hobby: ['ale', 'writing'] 
      },
      {
-         name: Sauron,
+         name: 'Sauron',
          age: 500,
          hobby: ['The Ring', 'destruction']
      }
